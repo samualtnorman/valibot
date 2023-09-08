@@ -4,6 +4,7 @@ All notable changes to the library will be documented in this file.
 
 ## v0.13.1 (August 23, 2023)
 
+- Add `cuid2` validation (pull request #130)
 - Change object type check in `object` and `record` schema
 
 ## v0.13.0 (August 23, 2023)
